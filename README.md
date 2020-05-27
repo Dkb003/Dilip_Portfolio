@@ -2,7 +2,6 @@
 ### Project Overview
 * The goal of this project is to locate the optimal neighborhood for Opening an Asian Resturant.
 * We have used Clustering Algorithm to locate the optimal neighborhood for Opening a resturant,we have labeled the neighbourhoods corresponding to their characteristics spending power, percentage of target customers, and the number of competitors.
-* We will mainly be utilizing the Foursquare API and the extensive geographical and census data from Toronto’s Open Data Portal. 
 * Conclusion : The most promising group of neighbourhoods for opening an Asian Restaurant, with a niche in Southeast Asian cuisine, appears to be ‘Cluster Label 4’.
 Please see the results below 
 
